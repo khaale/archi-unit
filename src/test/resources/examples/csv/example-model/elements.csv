@@ -1,0 +1,6 @@
+"ID","Type","Name","Documentation"
+"id-a2aa7c0625eb48a3b8d579a1008b1a3f","ArchimateModel","example-model",""
+"id-8b9ee089360d4087bd25d8e412c3168c","BusinessService","Dangling Biz Service",""
+"id-c53deb3d314d4a998f13eaa2cda0ae10","BusinessService","Good Business Service",""
+"id-63f46a3673c04bc0957eff6cc5c2076a","ApplicationService","Dangling App Service",""
+"id-a4cac33b07094e209722958007291471","ApplicationService","Good App Service",""
